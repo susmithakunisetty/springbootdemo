@@ -8,6 +8,6 @@ public class SpringbootdemoApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringbootdemoApplication.class, args);
-		System.out.print("Hello");
+		System.out.print("I am second branch");
 	}
 }
